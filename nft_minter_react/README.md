@@ -1,22 +1,12 @@
+https://github.com/MoralisWeb3/react-moralis
+$ npm install react react-dom moralis react-moralis
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-$ npx create-react-app diploma_minter
-$ cd diploma_minter
-$ npm install ethers
-
-## Contract
-* Contract is in Contracts/nft_cert_1.sol - deploy on Remix.ethereum.org
-* add deployed address to app code
-* add abi to contracts/nft_cert_1_abi.json file
-
-
-
-
-
-
-
 
 ## Available Scripts
 
